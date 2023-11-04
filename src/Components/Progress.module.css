@@ -1,0 +1,38 @@
+.progress{
+    width: 93%;
+    height: 10px;
+    margin: 20px;
+    padding-bottom: 20px;
+    position: relative;;
+}
+.progresshead{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding-left: 0;
+    
+}
+.progressname{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: 10px;
+
+}
+.progressdata{
+   display: flex;
+   width: 30%;
+   flex-direction: row;
+   justify-content: space-between;
+
+}
+.progressper{
+    font-size:small;
+    color:rgb(29, 33, 33);
+}
+.progressnumber{
+    font-size:small;
+    color:rgb(99, 101, 101);
+    font-weight: 200;
+}
