@@ -1,5 +1,10 @@
 .App{
     text-align: center;
+    display: flex;
+    height: 74vh;
+    justify-content: center;
+    align-items: center;
+
 }
 .Apph1{
    margin-left: 10px;
